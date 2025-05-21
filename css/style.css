@@ -499,8 +499,8 @@ footer::before {
   justify-content: space-between;
   background-color: #000;
   color: #fff;
-  height: 120px;
-  font-family: 'montserratRegular', Helvetica, sans-serif;
+  height: 133px;
+  font-family: 'montserratLight', Helvetica, sans-serif;
   padding-inline: 60px;
   margin-inline: 200px;
   border-radius: 50px 50px 0 0;
@@ -537,7 +537,7 @@ footer::before {
 
 .footer_info_img {
   height: auto;
-  width: 150px;
+  width: 180px;
   transform: scale(1);
   transition: transform 0.3s ease-in-out;
 }
