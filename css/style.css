@@ -33,7 +33,7 @@
   color: #fff;
   height: 133px;
   font-size: 20px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   padding-inline: 60px;
   margin-inline: 200px;
   border-radius: 0 0 50px 50px;
@@ -108,7 +108,7 @@
 .top_list {
   display: flex;
   flex-wrap: wrap;
-  column-gap: 15px;
+  column-gap: 25px;
 }
 
 .header_top_list {
@@ -146,7 +146,7 @@
   max-width: 650px;
   color: #fff;
   font-size: 50px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   text-transform: uppercase;
   margin: 160px 0 50px 0;
 }
@@ -154,7 +154,7 @@
 .header_info_undertitle {
   color: #fff;
   font-size: 25px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   margin-bottom: 100px;
   line-height: 25px;
 }
@@ -188,7 +188,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   color: #fff;
   margin-left: 70px;
 }
@@ -219,7 +219,7 @@
 
 .advantages_title {
   font-size: 30px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   text-transform: uppercase;
 }
 
@@ -250,7 +250,7 @@
 }
 
 .advantages_card_text {
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
 }
 
 /* -----TIME_MANAGEMENT----- */
@@ -264,7 +264,7 @@
   background-image: url('../lib/img/stock-photo-stunning-landscape-swimming-pool-blue-sky-with-clouds-tropical-resort-hotel-in-maldives-2287500017.jpg');
   background-size: cover;
   z-index: 1;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   color: #fff;
   padding: 280px 0;
 }
@@ -299,7 +299,7 @@
 .director_wrapper {
   display: flex;
   color: #fff;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   background-color: #000;
   padding-block: 150px;
   padding-inline: 200px;
@@ -338,6 +338,7 @@
 .director_content_info {
   display: flex;
   justify-content: space-between;
+  margin-bottom: -4px;
 }
 
 .director_content_card {
@@ -350,30 +351,30 @@
 
 .director_content_card_iconList {
   display: flex;
-  margin: 5px 0 38px -3px;
+  margin: 5px 0 30px -3px;
 }
 
 .director_content_card_iconList img {
-  width: 30px;
+  width: 20px;
   height: auto;
 }
 
 .magnifier_size {
-  width: 49px;
-  height: auto;
-  margin-bottom: 28px;
-}
-
-.profile_icon_size {
-  width: 41px;
+  width: 40px;
   height: auto;
   margin-bottom: 20px;
 }
 
-.heart_size {
-  width: 45px;
+.profile_icon_size {
+  width: 38px;
   height: auto;
-  margin-bottom: 26px;
+  margin-bottom: 8px;
+}
+
+.heart_size {
+  width: 43px;
+  height: auto;
+  margin-bottom: 11px;
 }
 
 /* -----CONTACTS----- */
@@ -387,7 +388,7 @@
 
 .contacts_title {
   font-size: 35px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   text-transform: uppercase;
 }
 
@@ -403,7 +404,6 @@
   flex-direction: column;
   align-items: center;
   row-gap: 20px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
   width: 800px;
 }
 
@@ -412,6 +412,7 @@
   width: inherit;
   padding: 10px 0;
   border-bottom: 1px solid #000;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
 }
 
 .contacts_form_number {
@@ -423,8 +424,9 @@
   margin-bottom: 30px;
   background-image: url('../lib/icons/flag.svg');
   background-repeat: no-repeat;
-  background-position: 0 -1px;
-  background-size: 35px 27px;
+  background-position: 0 2px;
+  background-size: 30px 25px;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
 }
 
 .contacts_submit_wrapper {
@@ -442,7 +444,7 @@
   border: none;
   background-color: #fff;
   cursor: pointer;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
 }
 
 /* ---------------FOOTER--------------- */
@@ -480,7 +482,7 @@ footer::before {
   color: #fff;
   line-height: 65px;
   text-transform: uppercase;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   margin-bottom: 30px;
 }
 
@@ -488,7 +490,7 @@ footer::before {
   font-size: 20px;
   color: #fff;
   line-height: 25px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
 }
 
 /* -----FOOTER_WRAPPER----- */
@@ -500,7 +502,7 @@ footer::before {
   background-color: #000;
   color: #fff;
   height: 133px;
-  font-family: 'montserratLight', Helvetica, sans-serif;
+  font-family: 'montserratextralight', Helvetica, sans-serif;
   padding-inline: 60px;
   margin-inline: 200px;
   border-radius: 50px 50px 0 0;
@@ -584,11 +586,16 @@ footer::before {
 
 @media (max-width: 1700px) {
   .header_wrapper_top {
-    font-size: 18px;
+    font-size: 16px;
   }
 
   .header_right_logo {
-    width: 160px;
+    width: 140px;
+    margin-top: 14px;
+  }
+
+  .header_right-container a {
+    margin-top: 1px;
   }
 
   .header_info_logo {
@@ -648,7 +655,7 @@ footer::before {
   }
 
   .director_content {
-    margin-left: 50px;
+    margin-left: 80px;
   }
 
   .director_img {
@@ -660,7 +667,7 @@ footer::before {
   }
 
   .director_content_card p {
-    font-size: 14px;
+    font-size: 15px;
   }
 
   .director_content_card_iconList {
@@ -700,7 +707,25 @@ footer::before {
   }
 
   .footer_info_img {
-    font-size: 160px;
+    margin-top: 8px;
+    width: 140px;
+  }
+
+  .footer_a {
+    font-size: 16px;
+  }
+
+  .footer_list_icons_wrapper {
+    margin-left: 50px;
+  }
+
+  .footer_list_icons {
+    width: 35px;
+    height: 35px;
+  }
+  
+  .footer_icon {
+    width: 18px;
   }
 }
 
@@ -1302,7 +1327,7 @@ footer::before {
     max-width: 160px;
   }
 
-  .director_content_card_iconList {
+  /* .director_content_card_iconList {
     margin: 5px 0 25px -3px;
   }
 
@@ -1327,7 +1352,7 @@ footer::before {
     width: 39px;
     height: auto;
     margin-bottom: 20px;
-  }
+  } */
 }
 
 @media (max-width: 570px) {

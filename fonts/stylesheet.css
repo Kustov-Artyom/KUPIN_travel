@@ -152,6 +152,15 @@
 }
 
 @font-face {
+    font-family: 'montserratextralight';
+    src: url('montserrat-extralight-webfont.woff2') format('woff2'),
+         url('montserrat-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
     font-family: 'montserratSemiBold';
     src: url('subset-Montserrat-SemiBold.woff2') format('woff2'),
         url('subset-Montserrat-SemiBold.woff') format('woff');
