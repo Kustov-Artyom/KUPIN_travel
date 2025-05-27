@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     // Массив с путями к изображениям
     const images = [
-        '../lib/img/lakeKomo2.jpg',
-        '../lib/img/stock-photo-luxury-swimming-pool-in-tropical-resort-relaxing-holidays-in-seychelles-islands-la-digue-young-2294821737.jpg',
-        '../lib/img/stock-photo-one-of-the-resorts-with-the-most-spectacular-views-in-jimbaran-occupying-a-very-large-area-2495341799.jpg',
-        '../lib/img/stock-photo-dawn-at-the-infinity-pool-of-the-star-le-cham-resort-in-tu-le-commune-van-chan-district-yen-bai-2371323397.jpg',
-        '../lib/img/stock-photo-stunning-landscape-swimming-pool-blue-sky-with-clouds-tropical-resort-hotel-in-maldives-2287500017.jpg'
+        './lib/img/lakeKomo2.jpg',
+        './lib/img/stock-photo-luxury-swimming-pool-in-tropical-resort-relaxing-holidays-in-seychelles-islands-la-digue-young-2294821737.jpg',
+        './lib/img/stock-photo-one-of-the-resorts-with-the-most-spectacular-views-in-jimbaran-occupying-a-very-large-area-2495341799.jpg',
+        './lib/img/stock-photo-dawn-at-the-infinity-pool-of-the-star-le-cham-resort-in-tu-le-commune-van-chan-district-yen-bai-2371323397.jpg',
+        './lib/img/stock-photo-stunning-landscape-swimming-pool-blue-sky-with-clouds-tropical-resort-hotel-in-maldives-2287500017.jpg'
     ];
     
     // Создаем контейнер для слайдов
