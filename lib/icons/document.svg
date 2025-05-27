@@ -1,7 +1,15 @@
-<svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M5.409 6.06677V6.9209H0.786591V0.638184H4.06451V1.89172H5.409V3.25256" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M5.4487 1.85645L4.10309 0.604126" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256" stroke-linejoin="round"/>
-<path d="M1.63269 5.42822H4.16199M1.63269 1.56287H3.11099M1.63269 2.85144H4.54611M1.63269 4.13953H4.0061" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M5.42889 3.14539C6.26509 3.14539 6.94312 3.82347 6.94312 4.65967C6.94312 5.49587 6.26509 6.17395 5.42889 6.17395C4.59259 6.17395 3.91461 5.49587 3.91461 4.65967C3.91461 3.82347 4.59259 3.14539 5.42889 3.14539Z" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M4.6235 4.52307L5.33899 5.23877L6.3317 4.24609" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="27px" height="28px" version="1.0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 73 75"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polyline fill="none" stroke="white" stroke-width="4" stroke-miterlimit="22.9256" points="54,63 54,73 2,73 2,2 39,2 39,16 54,16 54,31 "/>
+  <line fill="none" stroke="white" stroke-width="4" stroke-linejoin="round" stroke-miterlimit="22.9256" x1="54" y1="16" x2="39" y2= "2" />
+  <path fill="none" stroke="white" stroke-width="4" stroke-miterlimit="22.9256" d="M12 56l28 0m-28 -44l16 0m-16 15l32 0m-32 14l26 0"/>
+  <circle fill="none" stroke="white" stroke-width="4" stroke-miterlimit="22.9256" cx="54" cy="47" r="17"/>
+  <polyline fill="none" stroke="white" stroke-width="4" stroke-miterlimit="22.9256" points="45,46 53,54 64,43 "/>
+ </g>
 </svg>

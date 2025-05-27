@@ -1,7 +1,19 @@
-<svg width="9" height="10" viewBox="0 0 9 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M4.496 0.585876C6.8153 0.585876 8.6958 2.46607 8.6958 4.78568C8.6958 7.10528 6.8153 8.98547 4.496 8.98547C2.1764 8.98547 0.295898 7.10528 0.295898 4.78568C0.295898 2.46607 2.1764 0.585876 4.496 0.585876Z" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M4.4957 1.35208C5.4266 1.35208 6.18149 2.10697 6.18149 3.03787C6.18149 3.96877 5.4266 4.72357 4.4957 4.72357C3.5649 4.72357 2.81 3.96877 2.81 3.03787C2.81 2.10697 3.5649 1.35208 4.4957 1.35208Z" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M2.00131 8.16458V6.88507C2.00131 4.77517 6.9902 4.77517 6.9902 6.88507V8.16486" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M5.13101 5.40421L4.94049 6.19312H4.4957H4.05099L3.8605 5.40421" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
-<path d="M4.4957 6.19308H4.05099L3.92661 7.66058L4.4957 8.30206L5.06491 7.66058L4.94049 6.19308H4.4957Z" stroke="white" stroke-width="0.3597" stroke-miterlimit="22.9256"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="36px" height="36px" version="1.0" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 232 232"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2356278401904">
+   <circle fill="none" stroke="white" stroke-width="10" stroke-miterlimit="22.9256" cx="116" cy="116" r="111"/>
+   <path fill="none" stroke="white" stroke-width="10" stroke-miterlimit="22.9256" d="M116 25c24,0 44,20 44,45 0,24 -20,44 -44,44 -25,0 -45,-20 -45,-44 0,-25 20,-45 45,-45z"/>
+   <g>
+    <path fill="none" stroke="white" stroke-width="10" stroke-miterlimit="22.9256" d="M50 205l0 -34c0,-55 132,-55 132,0l0 34"/>
+    <polyline fill="none" stroke="white" stroke-width="10" stroke-miterlimit="22.9256" points="133,132 128,153 116,153 104,153 99,132 "/>
+    <polygon fill="none" stroke="white" stroke-width="10" stroke-miterlimit="22.9256" points="116,153 104,153 101,192 116,209 131,192 128,153 "/>
+   </g>
+  </g>
+ </g>
 </svg>
