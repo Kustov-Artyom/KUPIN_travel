@@ -285,7 +285,7 @@
   align-items: center;
   text-align: center;
   position: relative;
-  background-image: url('../lib/img/stock-photo-stunning-landscape-swimming-pool-blue-sky-with-clouds-tropical-resort-hotel-in-maldives-2287500017.jpg');
+  background-image: url('../lib/img/villa.jpg');
   background-size: cover;
   z-index: 1;
   font-family: 'montserratextralight', Helvetica, sans-serif;
@@ -475,7 +475,7 @@
 
 footer {
   position: relative;
-  background-image: url('../lib/img/stock-photo-tranquil-closeup-calm-sea-water-waves-with-palm-trees-beautiful-sunrise-sunset-sunlight-tropical-2488845973.jpg');
+  background-image: url('../lib/img/calm-sea-water.jpg');
   background-size: cover;
   z-index: 1;
 }
