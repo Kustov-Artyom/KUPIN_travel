@@ -8,10 +8,10 @@
 /* ---------------HEADER--------------- */
 
 .header {
-    position: relative;
-    background: none;
-    overflow: hidden;
-    z-index: 1;
+  position: relative;
+  background: none;
+  overflow: hidden;
+  z-index: 1;
 }
 
 .header::before {
@@ -31,7 +31,7 @@
   justify-content: space-between;
   background-color: #000;
   color: #fff;
-  height: 133px;
+  height: 120px;
   font-size: 20px;
   font-family: 'montserratextralight', Helvetica, sans-serif;
   padding-inline: 60px;
@@ -43,13 +43,6 @@
   margin-top: 17px;
   width: 180px;
   height: auto;
-  transform: scale(1);
-  transition: transform 0.3s ease-in-out;
-}
-
-.header_right_logo:hover,
-.header_right_logo:focus {
-  transform: scale(1.1);
 }
 
 .header_right {
@@ -72,8 +65,8 @@
   content: "";
   display: block;
   position: absolute;
-  bottom: -3px;
-  height: 2px;
+  bottom: -14px;
+  height: 1px;
   width: 100%;
   background-color: #fff;
   transform: scaleX(0);
@@ -121,8 +114,8 @@
   content: "";
   display: block;
   position: absolute;
-  bottom: -3px;
-  height: 2px;
+  bottom: -14px;
+  height: 1px;
   width: 100%;
   background-color: #fff;
   transform: scaleX(0);
@@ -148,7 +141,8 @@
   font-size: 50px;
   font-family: 'montserratextralight', Helvetica, sans-serif;
   text-transform: uppercase;
-  margin: 160px 0 50px 0;
+  margin: 160px 0 50px 0; 
+  line-height: 140%;
 }
 
 .header_info_undertitle {
@@ -156,31 +150,31 @@
   font-size: 25px;
   font-family: 'montserratextralight', Helvetica, sans-serif;
   margin-bottom: 100px;
-  line-height: 25px;
+  line-height: 140%;
 }
 
 /* --для_слайдера-- */
 
 .slideshow {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -2;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -2;
 }
 
 .slideshow .slide {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
 }
 
 .slideshow .slide.active {
-    opacity: 1;
+  opacity: 1;
 }
 
 /* ---------------MAIN--------------- */
@@ -220,6 +214,7 @@
 .aboutCompany_title {
   font-size: 30px;
   text-transform: uppercase;
+  line-height: 140%;
 }
 
 .aboutCompany_undertitle {
@@ -312,10 +307,12 @@
 .time_management_undertitle {
   font-size: 35px;
   margin: 20px 0 100px 0;
+  line-height: 140%;
 }
 
 .time_management_undertitle_text {
   font-size: 25px;
+  line-height: 140%;
 }
 
 /* -----DIRECTOR----- */
@@ -353,6 +350,7 @@
 .director_name {
   font-size: 28px;
   margin-right: 96px;
+  line-height: 140%;
 }
 
 .director_description {
@@ -367,6 +365,10 @@
 
 .director_content_card {
   max-width: 200px;
+}
+
+.director_stars_card {
+  max-width: 140px;
 }
 
 .director_content_card p {
@@ -513,7 +515,7 @@ footer::before {
 .comfort_undertitle {
   font-size: 20px;
   color: #fff;
-  line-height: 25px;
+  line-height: 30px;
   font-family: 'montserratextralight', Helvetica, sans-serif;
 }
 
@@ -525,7 +527,7 @@ footer::before {
   justify-content: space-between;
   background-color: #000;
   color: #fff;
-  height: 133px;
+  height: 120px;
   font-family: 'montserratextralight', Helvetica, sans-serif;
   padding-inline: 60px;
   margin-inline: 200px;
@@ -542,8 +544,8 @@ footer::before {
   content: "";
   display: block;
   position: absolute;
-  bottom: -3px;
-  height: 2px;
+  bottom: -10px;
+  height: 1px;
   width: 100%;
   background-color: #fff;
   transform: scaleX(0);
@@ -564,13 +566,6 @@ footer::before {
 .footer_info_img {
   height: auto;
   width: 180px;
-  transform: scale(1);
-  transition: transform 0.3s ease-in-out;
-}
-
-.footer_info_img:hover,
-.footer_info_img:focus {
-  transform: scale(1.1);
 }
 
 .footer_list_icons_wrapper {
@@ -584,17 +579,13 @@ footer::before {
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  width: 30px;
-  height: 30px;
+  width: 33px;
+  height: 33px;
 }
 
 .footer_icon {
   height: 100%;
   width: 100%;
-}
-
-.tg-icon {
-  padding-right: 3px;
 }
 
 /* -----------------АДАПТАЦИЯ------------------- */
@@ -637,6 +628,7 @@ footer::before {
 
   .aboutCompany_undertitle {
     font-size: 16px;
+    margin-bottom: -6px;
   }
 
   .aboutCompany_undertitle_upper {
@@ -683,7 +675,8 @@ footer::before {
   }
 
   .director_description {
-    line-height: 24px;
+    line-height: 140%;
+    margin-bottom: 5px;
   }
 
   .director_img {
@@ -692,6 +685,10 @@ footer::before {
 
   .director_content_card {
     max-width: 150px;
+  }
+
+  .director_stars_card {
+    max-width: 130px;
   }
 
   .director_content_card p {
@@ -741,7 +738,7 @@ footer::before {
   }
 
   .footer_a {
-    font-size: 16px;
+    font-size: 13px;
   }
 
   .footer_list_icons_wrapper {
